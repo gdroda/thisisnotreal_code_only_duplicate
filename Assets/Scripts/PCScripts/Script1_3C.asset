@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc3b9e8c5cae654882346b64f5b0a8f, type: 3}
+  m_Name: Script1_3C
+  m_EditorClassIdentifier: 
+  sentences:
+  - npcName: Narrator
+    text: The two men congratulate you and offer you the job.
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+  - npcName: Narrator
+    text: 'You are one step closer in taking Ann out for dinner to the fancy restaurant! '
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+  - npcName: Narrator
+    text: "Congratulations. \r"
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 1

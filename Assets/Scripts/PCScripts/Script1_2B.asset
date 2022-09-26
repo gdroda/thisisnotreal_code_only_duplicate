@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc3b9e8c5cae654882346b64f5b0a8f, type: 3}
+  m_Name: Script1_2B
+  m_EditorClassIdentifier: 
+  sentences:
+  - npcName: Narrator
+    text: "You mention that the weather is great today and ask her if she has any
+      plans. \r"
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 0
+  - npcName: Narrator
+    text: 'She mentions the restaurant she was talking about on the phone with her
+      cousin. '
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 0
+  - npcName: Narrator
+    text: 'If she could go there it would be a dream come true. '
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 0
+  - npcName: Narrator
+    text: 'Now is the time. '
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 0
+  - npcName: Narrator
+    text: "You ask her if she would like to go there while on a date with you. \r"
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 0
+  - npcName: Narrator
+    text: 'She blushes and nods. '
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 0
+  - npcName: Narrator
+    text: You promise to do everything to arrange a reservation.
+    hasChoice: 0
+    choiceOne: 
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 0}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 0
+  - npcName: Narrator
+    text: She smiles and boards the bus that just arrived leaving you at the bus
+      stop realizing what you just agreed into.
+    hasChoice: 1
+    choiceOne: Continue...
+    choiceTwo: 
+    choiceThree: 
+    choiceOneScript: {fileID: 11400000, guid: d6f71833c3943784db73e7960dc291d7, type: 2}
+    choiceTwoScript: {fileID: 0}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 0

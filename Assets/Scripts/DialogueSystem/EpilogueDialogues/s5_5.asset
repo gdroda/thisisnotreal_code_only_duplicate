@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 792088d87220f874e94d429d58800f68, type: 3}
+  m_Name: s5_5
+  m_EditorClassIdentifier: 
+  npcName: Josh
+  npcIcon: {fileID: 21300000, guid: 7c211f8780bcdc748b00764e9e4110cd, type: 3}
+  side: 0
+  sentences:
+  - The 3rd adventure was about a heist.
+  - The protagonist was an ex-convict who was for forced back to doing robberies
+    by his previous gang.
+  - In the heist they robbed a bank.
+  - While leaving he had to choose to either shoot or push an innocent bystander.
+  - ...It's late, time to go to bed.

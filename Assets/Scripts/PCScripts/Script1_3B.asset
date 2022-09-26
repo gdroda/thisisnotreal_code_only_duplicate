@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc3b9e8c5cae654882346b64f5b0a8f, type: 3}
+  m_Name: Script1_3B
+  m_EditorClassIdentifier: 
+  sentences:
+  - npcName: Narrator
+    text: They ask you where do you see yourself in 10 years.
+    hasChoice: 1
+    choiceOne: Talk about your dream to change the gaming industry and take on a
+      leading role to achieve that.
+    choiceTwo: Talk about implementing your knowledge and experience to form revolutionary
+      sale strategies.
+    choiceThree: 
+    choiceOneScript: {fileID: 11400000, guid: cf498894272234847afb2dfcbd89706f, type: 2}
+    choiceTwoScript: {fileID: 11400000, guid: cf498894272234847afb2dfcbd89706f, type: 2}
+    choiceThreeScript: {fileID: 0}
+    finalSentence: 0
+    triggerDialogue: 1
